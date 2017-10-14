@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image3]: ./examples/norm.png
 [image4]: ./examples/sliding_windows.png
 [image5]: ./examples/sliding_window.png
-[image6]: ./examples/bboxes_and_heat.png
+[image6]: ./examples/bboxes.png
 [image7]: ./examples/label.png
 [video1]: ./project_output_video.mp4
 
